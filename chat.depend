@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1716489307 source:c:\users\dell\documents\chat\main.cpp
+	"base64.h"
+	"aes.h"
+	<winsock2.h>
+	<iostream>
+	<process.h>
+	<vector>
+
+1712332837 c:\users\dell\documents\chat\base64.h
+	<string>
+	<string_view>
+
+1712332808 source:c:\users\dell\documents\chat\base64.cpp
+	"base64.h"
+	<algorithm>
+	<stdexcept>
+
+1712256258 source:c:\users\dell\documents\chat\aes.cpp
+	"AES.h"
+
+1712256292 c:\users\dell\documents\chat\aes.h
+	<cstdio>
+	<cstring>
+	<iostream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1712264066 c:\users\dell\documents\chat\base64.hpp
+	<string>
+
